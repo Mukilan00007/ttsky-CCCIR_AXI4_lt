@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module axi4lite_slave 
 (
     input  wire        s_axi_aclk,
